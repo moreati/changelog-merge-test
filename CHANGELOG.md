@@ -2,6 +2,7 @@
 
 ## Changes
 - #5 Added time travel module (@skynet)
+- #11 Added time-dilation compensation [totally not a backdoor] (@jconner)
 
 ## Known issues
 - #6 Time travellers arrive naked
