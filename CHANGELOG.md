@@ -2,6 +2,7 @@
 
 ## Changes
 - #5 Added time travel module (@skynet)
+- #10 Added option to re-enable killbot (@skynet)
 
 ## Known issues
 - #6 Time travellers arrive naked
